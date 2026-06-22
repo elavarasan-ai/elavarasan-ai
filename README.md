@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Elavarasan T</h1>
 
-<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast | B.Tech IT Student</h3>
+<h3 align="center">Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics | B.Tech IT Student</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Excel;Learning+Machine+Learning;Future+Microsoft+Data+Professional" />
@@ -26,7 +26,6 @@ class Elavarasan:
         self.location = "Krishnagiri, Tamil Nadu"
         self.degree = "B.Tech Information Technology"
         self.college = "Varuvan Vadivelan Institute of Technology"
-        self.cgpa = "7.8/10"
 
         self.languages = [
             "Python",
@@ -143,7 +142,10 @@ https://github.com/elavarasan-ai
 
 | Degree | Institution | Score |
 |----------|-------------|---------|
-| B.Tech Information Technology | Varuvan Vadivelan Institute of Technology | CGPA 7.8 |
+B.Tech Information Technology
+Varuvan Vadivelan Institute of Technology
+Anna University
+2023 – 2027
 
 ---
 
@@ -209,6 +211,6 @@ https://github.com/elavarasan-ai
 
 ## ⚡ Fun Fact
 
-"Every dataset has a story. I enjoy finding insights hidden inside data."
+"Passionate about transforming raw data into meaningful insights through analytics and machine learning."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
