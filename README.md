@@ -32,22 +32,13 @@ class Elavarasan:
 
     def __init__(self):
         self.name = "Elavarasan T"
+        self.role = "Aspiring Data Scientist"
         self.location = "Krishnagiri, Tamil Nadu"
-        self.degree = "B.Tech Information Technology"
-        self.college = "Varuvan Vadivelan Institute of Technology"
-        self.cgpa = "7.8/10"
 
         self.languages = [
             "Python",
             "SQL",
-            "Java Fundamentals"
-        ]
-
-        self.tools = [
-            "Excel",
-            "Google Colab",
-            "Jupyter Notebook",
-            "VS Code"
+            "Java"
         ]
 
         self.libraries = [
@@ -56,13 +47,39 @@ class Elavarasan:
             "Matplotlib"
         ]
 
-        self.currently_learning = [
-            "Machine Learning",
-            "Cloud Computing",
-            "Advanced SQL",
-            "Power BI"
+        self.tools = [
+            "Excel",
+            "Jupyter Notebook",
+            "Google Colab",
+            "VS Code",
+            "Git",
+            "GitHub"
         ]
 
+        self.currently_learning = [
+            "Machine Learning",
+            "Power BI",
+            "Cloud Computing",
+            "Advanced SQL"
+        ]
+
+    def goal(self):
+        return "Become a Professional Data Scientist 🚀"
+
+me = Elavarasan()
+print(me.goal())
+```
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg" width="250" alt="Elavarasan T"/>
+
+</td>
+
+</tr>
+</table>
     def goal(self):
         return "Become a Data Science Professional"
 ```
