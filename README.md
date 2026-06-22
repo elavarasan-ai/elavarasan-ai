@@ -27,6 +27,66 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## 👨‍💻 About Me
+
+```python
+class Elavarasan:
+
+    def __init__(self):
+        self.name = "Elavarasan T"
+        self.role = "Aspiring Data Scientist"
+        self.location = "Krishnagiri, Tamil Nadu"
+
+        self.languages = [
+            "Python",
+            "SQL",
+            "Java"
+        ]
+
+        self.libraries = [
+            "Pandas",
+            "NumPy",
+            "Matplotlib"
+        ]
+
+        self.tools = [
+            "Excel",
+            "Jupyter Notebook",
+            "Google Colab",
+            "VS Code",
+            "Git",
+            "GitHub"
+        ]
+
+        self.currently_learning = [
+            "Machine Learning",
+            "Power BI",
+            "Cloud Computing",
+            "Advanced SQL"
+        ]
+
+    def goal(self):
+        return "Become a Professional Data Scientist 🚀"
+
+me = Elavarasan()
+print(me.goal())
+```
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg" width="250" alt="Elavarasan T"/>
+
+</td>
+
+</tr>
+</table>
+
 ```python
 class Elavarasan:
 
