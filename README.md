@@ -1,20 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ELAVARASAN%20T&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20Enthusiast&descAlignY=55"/>
-
 <h1 align="center">Hi 👋, I'm Elavarasan T</h1>
 
-<h3 align="center">Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics | B.Tech IT Student</h3>
+<h3 align="center">
+Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics | B.Tech IT Student
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Excel;Learning+Machine+Learning;Future+Microsoft+Data+Professional" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=elavarasan-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://github.com/elavarasan-ai">
+    <img src="https://komarev.com/ghpvc/?username=elavarasan-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -23,21 +19,16 @@ class Elavarasan:
 
     def __init__(self):
         self.name = "Elavarasan T"
-        self.location = "Krishnagiri, Tamil Nadu"
+        self.role = "Aspiring Data Scientist"
         self.degree = "B.Tech Information Technology"
+        self.university = "Anna University"
         self.college = "Varuvan Vadivelan Institute of Technology"
+        self.location = "Krishnagiri, Tamil Nadu, India"
 
         self.languages = [
             "Python",
             "SQL",
-            "Java Fundamentals"
-        ]
-
-        self.tools = [
-            "Excel",
-            "Google Colab",
-            "Jupyter Notebook",
-            "VS Code"
+            "Java"
         ]
 
         self.libraries = [
@@ -46,171 +37,198 @@ class Elavarasan:
             "Matplotlib"
         ]
 
+        self.tools = [
+            "Excel",
+            "Jupyter Notebook",
+            "Google Colab",
+            "VS Code",
+            "Git",
+            "GitHub"
+        ]
+
         self.currently_learning = [
             "Machine Learning",
+            "Power BI",
             "Cloud Computing",
-            "Advanced SQL",
-            "Power BI"
+            "Advanced SQL"
         ]
 
     def goal(self):
-        return "Become a Data Science Professional"
+        return "Become a Professional Data Scientist and build AI-powered solutions."
+
+me = Elavarasan()
+print(me.goal())
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Tech Stack
 
-📧 Email: elavarasantech08@gmail.com
+### 💻 Programming Languages
 
-🔗 LinkedIn:
-https://linkedin.com/in/elavarasan-t-91a218282
+- Python
+- SQL
+- Java
 
-💻 GitHub:
-https://github.com/elavarasan-ai
+### 📚 Libraries
 
----
+- Pandas
+- NumPy
+- Matplotlib
 
-## 🚀 Tech Stack
+### 🛠️ Tools
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Libraries
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-### Tools
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+- Excel
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- Git
+- GitHub
 
 ---
 
-## 📊 GitHub Statistics
+# 🌱 Currently Learning
+
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- 📈 Power BI
+- ☁️ Cloud Computing
+- 🗄️ Advanced SQL
+
+---
+
+# 💼 Featured Projects
+
+## 📌 Student Performance Analysis
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+**Tech Stack:** Python, Pandas, Matplotlib, Excel
+
+---
+
+## 📌 Sales Data Dashboard
+
+- Interactive Dashboard
+- Pivot Tables
+- Charts & Reports
+
+**Tech Stack:** Excel
+
+---
+
+## 📌 E-Commerce Cart System
+
+- Add Products
+- Remove Products
+- Update Quantity
+- Dynamic Cart Calculation
+
+**Tech Stack:** JavaScript, HTML, CSS
+
+---
+
+## 📌 Fake News Detection
+
+- Text Classification
+- Machine Learning Based Prediction
+
+**Tech Stack:** Python, Machine Learning
+
+---
+
+# 📜 Certifications
+
+- ✅ IBM Data Science
+- ✅ Python Programming – Coursera
+- ✅ SQL Fundamentals for Data Analysts – Coursera
+- ✅ Oracle Data Science Foundations
+- ✅ Advanced Excel – Naan Mudhalvan
+- ✅ Data Science Training – Softrix Innovation
+
+---
+
+# 💼 Internship Experience
+
+## 🧠 EPBL Internship – Generative AI
+
+- Prompt Engineering
+- Generative AI Concepts
+- AI Workflow Understanding
+- Real-world AI Applications
+
+---
+
+## ☁️ Cloud Computing Internship
+
+- Cloud Fundamentals
+- Cloud Services
+- Deployment Basics
+- Cloud Management Concepts
+
+---
+
+# 🎓 Education
+
+| Degree | Institution | Duration |
+|----------|------------|-----------|
+| B.Tech Information Technology | Varuvan Vadivelan Institute of Technology (Anna University) | 2023 – 2027 |
+
+---
+
+# 🏅 Achievements
+
+- 📄 Presented Research Paper: **Applications of Artificial Intelligence in Data Analytics**
+- 🎤 Assistant Coordinator – Department Technical Symposium
+- 📜 Completed Multiple Data Science Certifications
+- 🚀 Successfully Completed Data Science Training at Softrix Innovation
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=elavarasan-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elavarasan-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elavarasan-ai&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elavarasan-ai&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=elavarasan-ai&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=elavarasan-ai&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elavarasan-ai&theme=tokyo-night"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=elavarasan-ai&theme=tokyonight&margin-w=15"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=elavarasan-ai&theme=tokyonight&no-frame=true&no-bg=true&row=1"/>
-</p>
+📧 **Email:** elavarasantech08@gmail.com
 
----
+🔗 **LinkedIn:** https://linkedin.com/in/elavarasan-t-91a218282
 
-## 💼 Featured Projects
-
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| Student Performance Analysis | Analyzed student academic performance data and generated insights | Python, Excel |
-| Sales Data Dashboard | Interactive dashboard using charts and Pivot Tables | Excel |
-| E-Commerce Cart System | Product ordering system with add/remove functionality | Python |
+💻 **GitHub:** https://github.com/elavarasan-ai
 
 ---
 
-## 🎓 Education
+# ⚡ Quote
 
-| Degree | Institution | Score |
-|----------|-------------|---------|
-B.Tech Information Technology
-Varuvan Vadivelan Institute of Technology
-Anna University
-2023 – 2027
-
----
-
-## 📜 Certifications
-
-✅ Data Science – Coursera
-
-✅ Python Programming – Coursera
-
-✅ SQL Fundamentals for Data Analysts – Coursera
-
-✅ Data Science Foundations – Oracle
-
-✅ Advanced Excel – Naan Mudhalvan
-
-✅ Data Science Course Completion – Softrix Innovation
-
----
-
-## 💼 Internship Experience
-
-### EPBL Internship – Generative AI
-
-- Learned Generative AI concepts
-- Prompt Engineering basics
-- AI workflow understanding
-- Real-world AI applications
-
-### Cloud Computing Internship
-
-- Cloud fundamentals
-- Cloud services
-- Application deployment basics
-- Cloud management concepts
-
----
-
-## 🌱 Currently Learning
-
-```text
-📊 Data Analytics → EDA, Visualization
-🤖 Machine Learning → Scikit-Learn
-☁️ Cloud Computing → Deployment
-🗄️ SQL → Advanced Queries
-📈 Power BI → Dashboards
-```
-
----
-
-## 🏅 Achievements
-
-- Presented research paper:
-  "Applications of Artificial Intelligence in Data Analytics"
-
-- Assistant Coordinator
-  Department Technical Symposium
-
-- Multiple Data Science Certifications
-
-- Successfully completed Data Science training at Softrix Innovation
-
----
-
-## ⚡ Fun Fact
-
-"Passionate about transforming raw data into meaningful insights through analytics and machine learning."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+> **"Turning data into insights and ideas into intelligent solutions." 🚀**
