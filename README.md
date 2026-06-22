@@ -11,12 +11,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Excel;Learning+Machine+Learning;Future+AI&Data+Science+Professional" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg"
-       width="220"
-       alt="Elavarasan T">
-</p>
-
 ---
 
 <p align="center">
@@ -32,60 +26,6 @@
 <td width="65%" valign="top">
 
 ## 👨‍💻 About Me
-
-```python
-class Elavarasan:
-
-    def __init__(self):
-        self.name = "Elavarasan T"
-        self.role = "Aspiring Data Scientist"
-        self.location = "Krishnagiri, Tamil Nadu"
-
-        self.languages = [
-            "Python",
-            "SQL",
-            "Java"
-        ]
-
-        self.libraries = [
-            "Pandas",
-            "NumPy",
-            "Matplotlib"
-        ]
-
-        self.tools = [
-            "Excel",
-            "Jupyter Notebook",
-            "Google Colab",
-            "VS Code",
-            "Git",
-            "GitHub"
-        ]
-
-        self.currently_learning = [
-            "Machine Learning",
-            "Power BI",
-            "Cloud Computing",
-            "Advanced SQL"
-        ]
-
-    def goal(self):
-        return "Become a Professional Data Scientist 🚀"
-
-me = Elavarasan()
-print(me.goal())
-```
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg" width="250" alt="Elavarasan T"/>
-
-</td>
-
-</tr>
-</table>
 
 ```python
 class Elavarasan:
