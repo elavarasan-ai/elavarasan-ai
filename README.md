@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ELAVARASAN%20T&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20Enthusiast&descAlignY=55"/>
 
 <h1 align="center">Hi 👋, I'm Elavarasan T</h1>
@@ -9,7 +12,9 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=elavarasan-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg"
+       width="220"
+       alt="Elavarasan T">
 </p>
 
 ---
@@ -147,9 +152,9 @@ https://github.com/elavarasan-ai
 
 ## 🎓 Education
 
-| Degree | Institution | Score |
-|----------|-------------|---------|
-| B.Tech Information Technology | Varuvan Vadivelan Institute of Technology | CGPA 7.8 |
+| Degree | Institution |
+|----------|-------------|
+| B.Tech Information Technology | Varuvan Vadivelan Institute of Technology |
 
 ---
 
