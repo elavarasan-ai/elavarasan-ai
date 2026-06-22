@@ -103,7 +103,7 @@ print(me.goal())
 
 💻 **GitHub:** https://github.com/elavarasan-ai
 
-🎨 **Portfolio:** https://elavarasantech.figma.site
+🌐 Portfolio: https://elavarasan-ai.github.io/portfolio/
 
 ---
 # 🚀 Tech Stack
