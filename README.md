@@ -31,6 +31,8 @@ Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics | B.T
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Elavarasan" width="250" src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg"/>
+
 ```python
 class Elavarasan:
 
@@ -82,18 +84,12 @@ me = Elavarasan()
 print(me.goal())
 ```
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg" width="240"/>
-
-</td>
-
-</tr>
-</table>
-
----
+- 🎓 B.Tech Information Technology Student
+- 📍 Krishnagiri, Tamil Nadu
+- 🐍 Python | SQL | Java
+- 📊 Data Analytics Enthusiast
+- 🤖 Learning Machine Learning & AI
+- ☁️ Exploring Cloud Computing
 
 ## 🌐 Connect With Me
 
