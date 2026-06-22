@@ -31,21 +31,20 @@ Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics | B.T
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Elavarasan" width="250" src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg"/>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/elavarasan-ai/elavarasan-ai/main/elavarasan.jpeg"
+       width="220"
+       alt="Elavarasan T"/>
+</p>
 
 ```python
 class Elavarasan:
 
     def __init__(self):
-
         self.name = "Elavarasan T"
-
         self.role = "Aspiring Data Scientist"
-
         self.degree = "B.Tech Information Technology"
-
         self.college = "Varuvan Vadivelan Institute of Technology"
-
         self.location = "Krishnagiri, Tamil Nadu"
 
         self.languages = [
@@ -80,17 +79,7 @@ class Elavarasan:
         return "Become a Professional Data Scientist 🚀"
 
 me = Elavarasan()
-
 print(me.goal())
-```
-
-- 🎓 B.Tech Information Technology Student
-- 📍 Krishnagiri, Tamil Nadu
-- 🐍 Python | SQL | Java
-- 📊 Data Analytics Enthusiast
-- 🤖 Learning Machine Learning & AI
-- ☁️ Exploring Cloud Computing
-
 ## 🌐 Connect With Me
 
 📧 **Email:** elavarasantech08@gmail.com
