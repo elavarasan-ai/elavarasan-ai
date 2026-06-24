@@ -289,3 +289,4 @@ print(me.goal())
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:3B82F6&height=120&section=footer"/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elavarasan-ai&show_icons=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=elavarasan-ai&layout=compact
